@@ -9,15 +9,15 @@
 
 ---
 
-### 💡 Tentang Saya
+### 💡 About Me
 
-- 🎓 Mahasiswa Informatika yang tertarik pada pemrograman Android
-- 🔭 Sedang membangun aplikasi Android berbasis Java
-- 🌱 Saat ini belajar Java, Android Studio, Git
+- 🎓 Informatics student interested in Android development  
+- 🔭 Currently building Android applications using Java  
+- 🌱 Currently learning Java, Android Studio, and Git  
 
 ---
 
-### 🚀 Tools & Teknologi
+### 🚀 Tools & Tecnologies
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
@@ -26,12 +26,13 @@
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Github Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaleSnakee&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
 
-> 🔄 Jangan ragu untuk fork, follow, atau kasih bintang ⭐ ke repositoriku. Terima kasih sudah mampir!
+
+> 🔄 Feel free to fork, follow, or star ⭐ my repository. Thanks for stopping by!
 
