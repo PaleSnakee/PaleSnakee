@@ -1,29 +1,38 @@
-# 🍽️ Project19 - Aplikasi Daftar Resep Kuliner
+<h1 align="center">
+  Hi there, I'm Akmal
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
 
-Aplikasi Android sederhana yang menampilkan daftar resep masakan. Pengguna dapat melihat, menambah, mengedit, dan menghapus resep. Data resep disimpan dalam file JSON lokal.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Akmal%2C+beginner+Android+developer!;Learning+Java+%7C+Android+Studio+%7C+GitHub!" alt="Typing Animation" />
+</p>
 
-## ✨ Fitur
 
-- Menampilkan daftar resep menggunakan RecyclerView
-- Tambah resep baru lengkap dengan bahan dan langkah-langkah
-- Edit dan hapus resep
-- Validasi input data resep
-- Data disimpan dan dimuat dari file JSON di internal storage
+---
 
-## 🛠️ Teknologi yang Digunakan
+### 💡 Tentang Saya
 
-- Java
-- Android Studio
-- RecyclerView
-- JSON (lokal, di folder `assets`)
-- Material Design Components
+- 🎓 Mahasiswa Informatika yang tertarik pada pemrograman Android
+- 🔭 Sedang membangun aplikasi Android berbasis Java
+- 🌱 Saat ini belajar Java, Android Studio, Git
 
-## 📷 Screenshot
+---
 
-_(Tambahkan gambar UI aplikasi di sini jika tersedia)_
+### 🚀 Tools & Teknologi
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-## 🚀 Cara Menjalankan Aplikasi
+---
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/Project19_AplikasiDaftarResep.git
+### 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaleSnakee&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+> 🔄 Jangan ragu untuk fork, follow, atau kasih bintang ⭐ ke repositoriku. Terima kasih sudah mampir!
+
