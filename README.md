@@ -11,9 +11,9 @@
 
 ### 💡 About Me
 
-- 🎓 Informatics student interested in Android development  
+- 🎓 Informatics student interested in Web & Android development  
 - 🔭 Currently building Android applications using Java  
-- 🌱 Currently learning Java, Android Studio, and Git  
+- 🌱 Currently learning Java, PHP, Android Studio, and Git  
 
 ---
 
@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 Github Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaleSnakee&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
